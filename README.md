@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesús</h1>
-<h3 align="center">Estudiante de programacion</h3>
+<h3 align="center">Estudiante de programación</h3>
 
 </p>
 
